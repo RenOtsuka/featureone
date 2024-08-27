@@ -1,2 +1,3 @@
 Test feature
-Hey there
+Hey tested the feature
+Adding new things
