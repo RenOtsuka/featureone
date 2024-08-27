@@ -1,1 +1,2 @@
 Hello, we are about to start git.
+More changes
